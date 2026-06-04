@@ -1,10 +1,10 @@
-# 📊 Dashly - Advanced Admin Dashboard Template
+# Dashly - Advanced Admin Dashboard Template
 
 Dashly is a modern, responsive, and high-level web interface designed for administrators to track analytical business datasets, evaluate transaction logs, and manage user interactions cleanly. Built from scratch using modern semantically structured HTML5 markup and organized CSS layout principles.
 
 ---
 
-## ✨ Key Technical Features
+## Key Technical Features
 
 * **Fixed Sidebar Component**: A dedicated left-side vertical navigation bar that stays locked in place during window scroll using `position: fixed`.
 * **Glassmorphic Header Bar**: A sleek, sticky layout top-bar utilizing background filters for depth contrast against primary card spaces.
@@ -15,7 +15,7 @@ Dashly is a modern, responsive, and high-level web interface designed for admini
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 * **HTML5** - Structured semantic element tags (`<aside>`, `<main>`, `<section>`).
 * **CSS3** - Customized properties via CSS Root variables (`:root`), Flexbox structures, dynamic margins, custom sizing ratios, and micro-transformations.
@@ -23,7 +23,7 @@ Dashly is a modern, responsive, and high-level web interface designed for admini
 
 ---
 
-## 📂 Project Directory Structure
+## Project Directory Structure
 
 ```text
 ├── index.html        # Main landing frame containing structural markdown blocks
@@ -34,7 +34,7 @@ Dashly is a modern, responsive, and high-level web interface designed for admini
     └── dashboard-banner.png
     └── sales-chart-placeholder.png
 
-## 🚀 Quick Execution Guide
+## Quick Execution Guide
 
 To view and run this application locally on your computer workstation:
 
@@ -42,7 +42,7 @@ To view and run this application locally on your computer workstation:
 2. Ensure your image files match the path setups inside your local `image/` file tree root.
 3. Open your project folder directory and double-click **`index.html`** to launch the dashboard application directly inside any standard internet web browser engine.
 
-## 👩‍🏫 Project Evaluation / VIVA References
+## Project Evaluation / VIVA References
 
 If evaluating this project for web development fundamentals:
 * **Layout Management**: This project bypasses messy positioning properties by relying on robust **Flexbox rules** (`display: flex`) paired with percentage boundaries (`width: 65%`, `width: 35%`) to distribute layouts.
